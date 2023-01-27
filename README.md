@@ -16,7 +16,7 @@
 
 ## DOC Swagger
 ```shell script
-/api/swagger-ui.html
+/doc/swagger-ui.html
 ```
 
 ## DOC Postman: 
