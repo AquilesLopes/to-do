@@ -21,5 +21,5 @@
 
 ## DOC Postman: 
 ```shell script
-https://documenter.getpostman.com/view/14786364/2s8ZDeTykt#6b678df3-b16d-44ac-a18e-5ea32d322fe1
+https://documenter.getpostman.com/view/14786364/2s8ZDeTykt
 ```
